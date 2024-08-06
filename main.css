@@ -1,0 +1,16 @@
+form{
+    margin-left: 50px;
+}
+
+h2{
+    margin-left: 800px;
+    color: black;
+}
+
+form, h2{
+    margin-top: 50px;
+}
+
+body{
+    background-color: blueviolet;
+}
